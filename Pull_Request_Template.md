@@ -4,9 +4,7 @@
 
 ```
 
-## agregando imagen 
 
-```md
 
 ## agregando imagen 
 
