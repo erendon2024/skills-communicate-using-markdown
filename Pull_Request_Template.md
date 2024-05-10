@@ -1,5 +1,12 @@
 # encabezado de read de pull request template
-## este es mi encabezado is an `<h2>` header
+```md
+# mi primer encabezado en markdownan `<h1>` header, which is the largest
+
+```
+
+## agregando imagen 
+
+```md
 
 ## agregando imagen 
 
